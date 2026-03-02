@@ -1,11 +1,11 @@
-# 🚗 Automobile Price Prediction  
+ Automobile Price Prediction  
 
-## 📖 Description  
+Description  
 This project predicts the **price of automobiles** based on various features such as engine size, horsepower, fuel type, and mileage. The goal is to identify the key factors affecting automobile prices and build regression models for accurate price prediction.  
 
 ---
 
-## 📊 Dataset  
+ Dataset  
 - Source: [UCI Machine Learning Repository / Kaggle] (update with actual link if available)  
 - Rows: ~200  
 - Columns: ~20  
@@ -21,7 +21,7 @@ This project predicts the **price of automobiles** based on various features suc
 
 ---
 
-## 🛠 Tools & Libraries  
+ Tools & Libraries  
 - **Python**  
 - **Pandas, NumPy** (data cleaning & preprocessing)  
 - **Matplotlib, Seaborn** (data visualization)  
@@ -29,7 +29,7 @@ This project predicts the **price of automobiles** based on various features suc
 
 ---
 
-## 🔍 Methodology  
+Methodology  
 1. **Data Preprocessing**  
    - Handled missing values  
    - Encoded categorical features  
@@ -51,7 +51,7 @@ This project predicts the **price of automobiles** based on various features suc
 
 ---
 
-## 🚀 Results  
+Results  
 - The **Random Forest Regressor** performed the best with high accuracy.  
 - Identified **engine size, horsepower, and curb weight** as the most significant factors influencing price.  
 
